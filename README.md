@@ -6,15 +6,23 @@ I'm Maverick, and ...
 - 👯 I’m looking to collaborate on ...
     * (beginner) bug bounty hunting
     * creating small CTF challenges
+    * threat detection use case/tools development
 - 🤔 I’m looking for help with ...
     * hands-on fuzzing
     * red team-ing
     * security research
+- 💬 Ask me about ...
+    * threat detection use case creation
+    * JIRA workflow for threat detection/hunting
+    * Splunk / Elastic
 - 📫 How to reach me: ...
     * [twitter.com/@mavjs](https://twitter.com/mavjs)
-    * Wire ID: mavjs
+    * [Wire ID](https://wire.com/en/): mavjs
 - 😄 Pronouns: ...
     * he/him
+- ⚡ Fun fact: ...
+    * I've done 4-5 movie marathon sessions of **The Lord of The Rings** (_extendend version_) in one go. :rofl:
+    * I've eaten a **mega** [kapsalon](https://en.wikipedia.org/wiki/Kapsalon) once!
 <!--
 **mavjs/mavjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
