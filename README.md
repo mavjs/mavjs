@@ -1,5 +1,6 @@
 ### Hi there 👋
-I'm Maverick, and ...
+I'm Maverick
+<!--, and ...
 
 - 🌱 I’m currently learning ...
     * about pentestration testing by working on the [Offensive Security Penetration With Kali Linux training](https://www.offensive-security.com/pwk-oscp/) lab.
@@ -22,7 +23,7 @@ I'm Maverick, and ...
     * he/him
 - ⚡ Fun fact: ...
     * I've done 4-5 movie marathon sessions of **The Lord of The Rings** (_extendend version_) in one go. :rofl:
-    * I've eaten a **mega** [kapsalon](https://en.wikipedia.org/wiki/Kapsalon) once!
+    * I've eaten a **mega** [kapsalon](https://en.wikipedia.org/wiki/Kapsalon) once! -->
 <!--
 **mavjs/mavjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
