@@ -1,5 +1,10 @@
 ### Hi there 👋
 I'm Maverick
+
+📫 You can find me on:
+   * [my website - mavjs.org](https://www.mavjs.org/)
+   * [twitter.com/@mavjs](https://twitter.com/mavjs)
+   * <a rel="me" href="https://infosec.exchange/@mavjs">infosec.exchange/@mavjs</a> (Mastodon)
 <!--, and ...
 
 - 🌱 I’m currently learning ...
